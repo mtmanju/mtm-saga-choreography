@@ -1,13 +1,13 @@
-package com.mtm.examples.mtmsagachoreography;
+package com.mtm.examples;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MtmSagaChoreographyApplication {
+public class SagaChoreographyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MtmSagaChoreographyApplication.class, args);
+		SpringApplication.run(SagaChoreographyApplication.class, args);
 	}
 
 }
